@@ -4,7 +4,11 @@ A simple React app to help you track your daily moods using a calendar interface
 You can select from three moods each day: Happy 😊, Sad 😢, or Neutral 😐. Your mood data is saved locally in the browser (`localStorage`), and weekly mood summaries are displayed using pie charts.
 
 
-Uploading Recording 2025-06-09 023424.mp4…
+
+https://github.com/user-attachments/assets/243cc024-71d3-46df-9348-128412666675
+
+
+
 
 
 

@@ -1,12 +1,13 @@
-# React + Vite
+# 🧠 Moody Tracker Calendar
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React app to help you track your daily moods using a calendar interface.  
+You can select from three moods each day: Happy 😊, Sad 😢, or Neutral 😐. Your mood data is saved locally in the browser (`localStorage`), and weekly mood summaries are displayed using pie charts.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Uploading Recording 2025-06-09 023424.mp4…
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+![image](https://github.com/user-attachments/assets/ee46189b-9736-43f7-9b06-fdbfa88b2043)
+
+![image](https://github.com/user-attachments/assets/bab6a534-d71f-489b-af89-241b6f578f63)
